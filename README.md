@@ -14,7 +14,7 @@ Run `npm install` to install dependencies <br />
 Create an `.env` file by renaming the `.env.example` file <br />
 Run `npm start` to start the application <br />
 
-###2. Backend API:
+### 2. Backend API:
 
 The backend API utilizes MongoDB for data storage. MongoDB is thus required for the functioning of the API.
 
