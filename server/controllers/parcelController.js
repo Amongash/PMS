@@ -82,8 +82,7 @@ const update = async (req, res, next) => {
 const _delete = async (req, res, next) => {
 	try {
 		await Parcel.deleteOne({ _id: req.params.parcelId }, (err) => {
-			if (err)
-				return next(new Error("Failed to delete parcel for unknown reasons"));
+			if (err) return next(new Error("Failed to delete parcel."));
 			return res.json({
 				success: "OK",
 				message: "Parcel deleted successfully",
