@@ -1,0 +1,3 @@
+{"_id":{"$oid":"60ec30348fb4d7209b8e1d04"},"role":"Teller","firstName":"John","lastName":"Doe","email":"johndoe@example.com","password":"$2b$10$8DvNoy3o0jjk6I3hTFlAhuQlv6nqeYEcWuwuPzodOdwOkKQ86OyTW","createdAt":{"$date":"2021-07-12T12:06:12.297Z"},"updatedAt":{"$date":"2021-07-12T18:23:14.017Z"},"__v":0}
+{"_id":{"$oid":"60ed664d73ad5a3a7b0b7cd3"},"role":"Admin","firstName":"Jane","lastName":"Doe","email":"janedoe@example.com","createdAt":{"$date":"2021-07-12T19:19:17.176Z"},"updatedAt":{"$date":"2021-07-12T19:19:17.176Z"},"__v":0}
+{"_id":{"$oid":"60ed666273ad5a3a7b0b7cd6"},"role":"Customer","firstName":"James","lastName":"Doe","email":"jamesdoe@example.com","createdAt":{"$date":"2021-07-12T19:20:38.468Z"},"updatedAt":{"$date":"2021-07-12T19:20:38.468Z"},"__v":0}

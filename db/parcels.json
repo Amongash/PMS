@@ -1,0 +1,1 @@
+{"_id":{"$oid":"60ed63cc8d90e8359b243669"},"delivery_location":"Kikuyu","delivery_date":{"$date":"2020-12-31T21:00:00Z"},"recipient":"John Doe","cost":50,"status":"transit","createdAt":{"$date":"2021-07-13T09:58:36.775Z"},"updatedAt":{"$date":"2021-07-13T09:58:36.775Z"},"__v":0}
